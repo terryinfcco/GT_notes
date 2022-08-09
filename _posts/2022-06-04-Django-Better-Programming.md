@@ -3,6 +3,7 @@ layout: posts
 title: "Django Journal at Better Programming"
 categories: django
 author_profile: true
+tags: django
 ---
 
 I finished organizing my notes from the article about Creating a Journal App in Django. It was written by Esther Vaati and was posted at https://betterprogramming.pub/build-a-personal-journal-with-django-and-python-f4835d27368c. I really liked the article. I thought it was well written and appropriate for a person who had learned some Django theory and wanted to see it applied. 

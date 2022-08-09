@@ -3,6 +3,7 @@ layout: posts
 title: "Python Crash Course Youtube Video 18"
 date: 2022-08-08 16:04:54 -0700
 categories: django crash_course
+tags: django
 ---
 
 # Learning Python Youtube Channel - Chapter 18 of Python Crash Course - Getting Started with Django
